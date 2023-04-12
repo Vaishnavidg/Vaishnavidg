@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=Vaishnavidg&show_icons=true&theme=radical"/>
  </p> 
-          
+<h2> 📈 &nbsp;My Profile: </h2>  <a href="https://vaishnavidg.github.io/Digital_Portfolio/" color="red" class="btn btn2">Profile link</a>         
