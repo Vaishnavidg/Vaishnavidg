@@ -41,5 +41,4 @@ Here are some ideas to get you started:
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=Vaishnavidg&show_icons=true&theme=radical"/>
  </p> 
-<h2> 📈 &nbsp;My Profile: </h2> <a href="https://vaishnavidg.github.io/Digital_Portfolio/"><img  src = "https://user-images.githubusercontent.com/54136990/231434041-2d1de97f-335d-4e65-a8b2-cb8d0511d146.png"width="45" height="45"/>  
-  Profile link</a>         
+<h2> 📈 &nbsp;My Profile: </h2> <a href="https://vaishnavidg.github.io/Digital_Portfolio/"><img  src = "https://user-images.githubusercontent.com/54136990/231434041-2d1de97f-335d-4e65-a8b2-cb8d0511d146.png"width="45" height="45"/></a>         
