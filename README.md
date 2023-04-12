@@ -1,7 +1,14 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Fcode&psig=AOvVaw0lC7wQptE6stisGaQDe707&ust=1681371268099000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICDypzqo_4CFQAAAAAdAAAAABAD"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey.Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+<p>
+<a href="my facebook link">
+                <i class="fa-brands fa-facebook"></i></a>
+              <a href=""><i class="fa-brands fa-linkedin"></i></a>
+              <a href=""><i class="fa-brands fa-github"></i></a>
+              <a href=""><i class="fa-brands fa-instagram"></i></a>
+   </p>
 <!--
 **Vaishnavidg/Vaishnavidg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
