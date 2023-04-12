@@ -9,11 +9,11 @@
 </p>
 
 
-- 🔭 I’m currently working on Application Devlopment
+- 🔭 I’m currently working on Application Development
 - 🌱 I’m currently learning React Native and Firebase.
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about my Projects.
-- 📫 How to reach me: vaishnavig3001@gmail.com||  https://www.linkedin.com/in/vaishnavidg
+- 📫 How to reach me: vaishnavig3001@gmail.com ||  https://www.linkedin.com/in/vaishnavidg
 - ⚡ Interests: Mandala Painting and reading books.
 <h2> 🚀 &nbsp;Some Tools and languages I Have Used and Learned</h2>
 <p align="left">
