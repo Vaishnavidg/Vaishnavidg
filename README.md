@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"alt="css" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"alt="sql" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-
-  </p>
+</p>
+<h2> 📈 &nbsp;Stats-Records</h2>  
+<p align="center">
+<img src = "https://github-readme-stats.vercel.app/api?username=Vaishnavidg&show_icons=true&theme=radical"/>
+ </p> 
           
