@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey.Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-**I'm Vaishnavi Dnyaneshwar Gaikwad** from India. I do ✨ _Web and App Development_ ✨.
+**I'm Vaishnavi Dnyaneshwar Gaikwad**  and I'm from India. I create ✨ _websites and apps._ ✨.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54136990/231429352-1f8ccd63-4ce9-4647-a11d-383c1a72d9e8.gif"/>
 </p>
