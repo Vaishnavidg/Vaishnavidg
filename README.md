@@ -1,36 +1,214 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey.Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Vaishnavi!%20👋&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
-**I'm Vaishnavi Dnyaneshwar Gaikwad**  and I'm from India. I create ✨ _websites and apps._ ✨.
+<h1 align="center">Vaishnavi Dnyaneshwar Gaikwad</h1>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54136990/231429352-1f8ccd63-4ce9-4647-a11d-383c1a72d9e8.gif"/>
+  <b>Full Stack Developer | React.js | Next.js | Node.js | TypeScript</b>
 </p>
 
-
-- 🔭 I’m currently working on Application Development
-- 🌱 I’m currently learning React Native and Firebase.
-- 👯 I’m looking to collaborate on Open Source
-- 💬 Ask me about my Projects.
-- 📫 How to reach me: vaishnavig3001@gmail.com ||  https://www.linkedin.com/in/vaishnavidg
-- ⚡ Interests: Mandala Painting and reading books.
-<h2> 🚀 &nbsp;Some Tools and languages I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"alt="java" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"alt="javascript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"alt="vscode" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"alt="intellije" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"alt="css" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"alt="sql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="react" width="45" height="45" />
- </p>
-
-
-<h2> 📈 &nbsp;Stats-Records</h2>  
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Vaishnavidg&show_icons=true&theme=radical"/>
- </p> 
-<h2> 📈 &nbsp;My Profile: </h2> <a href="https://vaishnavidg.github.io/Digital_Portfolio/"><img  src = "https://user-images.githubusercontent.com/54136990/231434041-2d1de97f-335d-4e65-a8b2-cb8d0511d146.png"width="45" height="45"/></a>         
+  <a href="https://vaishnavidg.github.io/Digital_Portfolio/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/vaishnavidg">LinkedIn</a> •
+  <a href="mailto:vaishnavig3001@gmail.com">Email</a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a **Full Stack Developer** from India with **3+ years of experience** building scalable web applications, APIs, and user-focused products.
+
+I enjoy turning ideas into production-ready applications — from designing responsive interfaces to building backend services, database architectures, and API integrations.
+
+* 🔭 Currently working on **Full Stack Application Development**
+* 💻 Building with **React, Next.js, Node.js & TypeScript**
+* 🧩 Experienced with **REST APIs, MongoDB, SQL & modern frontend architectures**
+* ⛓️ Exploring **Web3, Solidity & blockchain development**
+* 🤖 Interested in **AI-powered applications and developer tools**
+* 🌱 Continuously improving **DSA, System Design & Software Engineering**
+* 👯 Open to collaborating on **Open Source & interesting projects**
+* 💬 Ask me about **React, Node.js, Next.js, TypeScript, MongoDB or my projects**
+* 🎯 Interested in **Full Stack Developer / SDE opportunities**
+* 🎨 Outside tech: **Mandala painting & reading books**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="45" height="45" alt="Solidity"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" height="45" alt="Material UI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite"/>
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/>
+</p>
+
+* REST APIs
+* API Integration
+* Authentication & Authorization
+* Backend Architecture
+* Server-side Development
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+</p>
+
+### ⛓️ Web3 & Blockchain
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="45" height="45" alt="Solidity"/>
+</p>
+
+* Solidity
+* Hardhat
+* Foundry
+* Web3.js
+* Wagmi
+* Viem
+* ERC-20 / ERC-3643
+* Smart Contracts
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ♻️ ServCare — Waste Management Platform
+
+A full-stack waste management platform for scheduling and managing recyclable waste pickups.
+
+**Tech:** React.js • Node.js • MongoDB • REST APIs
+
+**Features:**
+
+* ♻️ E-waste, plastic, textile & UCO pickup
+* 📍 Address and pickup scheduling
+* 🔄 Reschedule & cancellation workflow
+* 🎁 Rewards and coupon system
+* 💰 Reward redemption / encashment
+* 📜 Pickup completion certificates
+* 📊 Request tracking and management
+
+🔗 [Visit ServCare](https://servcare.com/)
+
+---
+
+### 🤖 AI-Powered Developer Projects
+
+Exploring applications that combine **AI + full-stack development** to solve practical problems.
+
+**Focus Areas:**
+
+* AI assistants
+* AI-powered learning platforms
+* Developer productivity
+* Intelligent application workflows
+* LLM integrations
+
+---
+
+### ⛓️ Blockchain Projects
+
+Hands-on experience building and experimenting with smart-contract based applications.
+
+**Areas:**
+
+* ERC-3643
+* Tokenization
+* Identity & compliance
+* Smart contracts
+* Watr ecosystem
+* Web3 frontend integration
+
+---
+
+## 🧠 Problem Solving
+
+I regularly practice **Data Structures & Algorithms in Java**.
+
+* 💡 100+ problems solved
+* ☕ Java for competitive programming / DSA
+* 🧩 Arrays & Strings
+* 🔁 Recursion & Backtracking
+* 🌳 Trees & Graphs
+* 🔎 Binary Search
+* 📚 Hashing & Stack
+* ⚡ Optimization & Complexity Analysis
+
+---
+
+## 🏆 What I'm Currently Focused On
+
+```text
+Full Stack Development     ████████████████████
+React / Next.js             ████████████████████
+Node.js / TypeScript        ███████████████████
+DSA & Problem Solving       ████████████████
+System Design               █████████████
+AI / LLM Applications       █████████████
+Web3 / Blockchain           ███████████
+```
+
+---
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:vaishnavig3001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vaishnavidg">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://vaishnavidg.github.io/Digital_Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>💻 Building. Learning. Solving. Creating.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories!
+</p>
