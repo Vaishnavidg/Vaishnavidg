@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vaishnavidg.github.io/Digital_Portfolio/">Portfolio</a> •
+  <a href="https://vaishnavidg.com/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/vaishnavidg">LinkedIn</a> •
   <a href="mailto:vaishnavig3001@gmail.com">Email</a>
 </p>
